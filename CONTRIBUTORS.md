@@ -3,3 +3,4 @@
 - [oussamabouchikhi](https://github.com/oussamabouchikhi)
 - [alaaedaouimeur](https://github.com/alaaedaouimeur)
 - [bendabizadam](https://github.com/bendabizadam)
+- [dellucifer](https://github.com/dellucifer)
