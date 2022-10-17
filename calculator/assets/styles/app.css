@@ -1,0 +1,32 @@
+body {
+    font-family: "Sofia", sans-serif;
+    margin: auto;
+}
+
+header{
+    background-color: #003364;
+    color: white;
+    padding: 10px;
+}
+
+h1, #calculator, #result{
+    text-align: center;
+}
+
+button{
+    background-color: #003364;
+    color: white;
+    width: 35px;
+    height: 35px;
+    border-color: #003364;
+}
+
+#input-number{
+    margin: 20px 0px;
+    height: 50px;
+    font-size: large;
+}
+
+#result{
+    color: #003364;
+}
