@@ -9,24 +9,17 @@ print("4-Division")
 
 operation=input()
 
+num1=input("enter the 1st Number")
+num2=input("enter the 2nd Number")
+
 if operation == "1":
-    num1=input("enter the 1st Number")
-    num2=input("enter the 2nd Number")
-    print("The Sum is"+str(int(num1)+int(num2)))
-
+    print("The Result is"+str(int(num1)+int(num2)))
 elif operation == "2":
-    num1=input("enter the 1st Number")
-    num2=input("enter the 2nd Number")
-    print("The Sum is"+str(int(num1)-int(num2)))
-
+    print("The Result is"+str(int(num1)-int(num2)))
 elif operation == "3":
-    num1=input("enter the 1st Number")
-    num2=input("enter the 2nd Number")
-    print("The Sum is"+str(int(num1)*int(num2)))
+    print("The Result is"+str(int(num1)*int(num2)))
 elif operation == "4":
-    num1=input("enter the 1st Number")
-    num2=input("enter the 2nd Number")
-    print("The Sum is"+str(int(num1)/int(num2)))
+    print("The Result is"+str(int(num1)/int(num2)))
 else: print("Invalid Entry")
 
 
