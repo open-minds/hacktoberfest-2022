@@ -12,6 +12,7 @@ National school of Telecommunications & ICT
 - Eat
 - Pray
 - Code
+- Sport
 
 ### Development
 - Java - C - X86-64
