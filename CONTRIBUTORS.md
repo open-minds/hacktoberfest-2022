@@ -6,6 +6,7 @@
 - [dellucifer](https://github.com/dellucifer)
 - [mota-b](https://github.com/mota-b)
 - [MuhammadNoorani](https://github.com/MuhammadNoorani)
+- [NazimKYS](https://github.com/NazimKYS)
 - [oussamabonnor1](https://github.com/oussamabonnor1)
 - [oussamabouchikhi](https://github.com/oussamabouchikhi)
 - [PrinceBharti27](https://github.com/PrinceBharti27)
